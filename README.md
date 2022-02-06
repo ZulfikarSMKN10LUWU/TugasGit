@@ -1,4 +1,3 @@
 # TugasGit
 Repository dari PC Lokal
-
-study revert and reset
+ Ini merupakan tugas akhir dari gamelab.id materi GIT untuk programmer pemula
